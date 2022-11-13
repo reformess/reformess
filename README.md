@@ -1,2 +1,0 @@
-- 👋 Hi, I’m @reformess
-- 🌱 I’m currently learning C++
